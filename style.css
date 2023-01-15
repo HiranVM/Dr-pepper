@@ -1,0 +1,101 @@
+header{
+   background-color: rgb(144, 13, 44);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 1.06rem;
+}
+button.navbar-toggler{
+    color: white;
+}
+.one h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3.8rem;
+}
+.one p{
+    font-size: 1.3rem;
+}
+.one a{
+    color: white;
+}
+.one{
+    background-color: rgb(144, 13, 44);
+    padding: 30px;
+    color: white;
+    margin: 0;
+}
+.two{
+    text-align: center;
+    margin: 0;
+    
+}
+.two h5{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.two img{
+    padding-top: 30px;
+}
+.three{
+    background-color: rgb(144, 13, 44);;
+    color: white;
+    width: 100%;
+}
+.three a{
+    text-decoration: none;
+    color: white;
+    word-spacing: 15px;
+}
+.footer hr{
+    color: white;
+    margin: 0;
+    padding-bottom: 20px;
+}
+.footer p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    padding-left: 20px;
+}
+p#right{
+    text-align: end;
+    padding-right: 20px;
+}
+#dr-1{
+    background-color: #AA173A;
+}
+
+#dr-3{
+    background-color: black;
+}
+#dr-4{
+    background-color: #04474F;
+}
+#dr-5{
+    background-color: #F2C58B;
+}
+#dr-6{
+    background-color: #FF4D56;
+}
+#dr-7{
+    background-color: #F5DFCA;
+}
+#dr-8{
+    background-color: #B99353;
+}
+#dr-9{
+    background-color: #FFF0CA;
+}
+#dr-10{
+    background-color: #540520;
+}
+#dr-11{
+    background-color: #FFE786;
+}
+#dr-12{
+    background-color: #C81C32;
+}
+
+
+
+.two div div div:hover{
+    opacity: .8;
+    text-decoration: underline;
+}
